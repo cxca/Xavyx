@@ -5,7 +5,7 @@ Social Network for iOS in Objective-C. Backend in PHP.
 
 Instructions
 
-iOS
+Objective-C
 ========
 API.h
 - Change yourdomain.com

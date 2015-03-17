@@ -1,0 +1,29 @@
+//
+//  Xavyx-Prefix.pch
+//  Xavyx
+//
+//  Created by Xavy on 4/9/14.
+//  Copyright (c) 2014 Carlos Chaparro. All rights reserved.
+//
+#import <Availability.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+#endif
+
+#define INTERFACE_IS_PAD     ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad)
+#define INTERFACE_IS_PHONE   ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone)
+#define iPadHeight [[UIScreen mainScreen] bounds].size.height
+#define iPadWidth  [[UIScreen mainScreen] bounds].size.width
+
+#define globalKey @"73DDA869523FF6FCBF64C9AD6E25E"
+
+

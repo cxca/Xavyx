@@ -1,0 +1,42 @@
+[13-Mar-2015 17:33:21 America/New_York] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 17:33:21 America/New_York] PHP Warning:  include(): Failed opening './db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 17:33:21 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 17:33:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 17:33:21 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 17:33:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 17:33:21 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 36
+[13-Mar-2015 17:40:14 America/New_York] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 17:40:14 America/New_York] PHP Warning:  include(): Failed opening './db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 17:40:14 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 17:40:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 17:40:14 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 17:40:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 17:40:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 36
+[13-Mar-2015 18:15:35 America/New_York] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 18:15:35 America/New_York] PHP Warning:  include(): Failed opening './db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 18:15:35 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 18:15:35 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 18:15:35 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 18:15:35 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 18:15:35 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 36
+[13-Mar-2015 18:15:54 America/New_York] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 18:15:54 America/New_York] PHP Warning:  include(): Failed opening './db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 18:15:54 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 18:15:54 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 18:15:54 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 18:15:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 18:15:54 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 36
+[13-Mar-2015 18:16:21 America/New_York] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 18:16:21 America/New_York] PHP Warning:  include(): Failed opening './db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 18:16:21 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 18:16:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 18:16:21 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 18:16:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 18:16:21 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 36
+[13-Mar-2015 18:24:31 America/New_York] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 18:24:31 America/New_York] PHP Warning:  include(): Failed opening './db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 29
+[13-Mar-2015 18:24:31 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 18:24:31 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 33
+[13-Mar-2015 18:24:31 America/New_York] PHP Notice:  Undefined variable: connection in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 18:24:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 34
+[13-Mar-2015 18:24:31 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/xavyxcom/public_html/xavyx/email_activation/activation.php on line 36

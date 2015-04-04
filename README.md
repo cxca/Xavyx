@@ -1,6 +1,8 @@
 # Xavyx
 Social Network for iOS in Objective-C. Backend in PHP.
 
+https://itunes.apple.com/us/app/xavyx/id935916106?ls=1&mt=8
+
 ![Week selector](https://raw.githubusercontent.com/cxca/Xavyx/master/AppImg.png)
 
 Instructions
